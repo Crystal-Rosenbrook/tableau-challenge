@@ -8,7 +8,7 @@ Congratulations on your new role as the lead analyst for the New York Citi Bike 
 
 Since its inception in 2013, the Citi Bike program has amassed a wealth of data on its utilization. However, a robust dashboard or reporting process is yet to be implemented. This project aims to fill that gap by building a set of data reports to answer city officials' questions.
 
-You can find the final Tableau Challenge results [here](https://public.tableau.com/app/profile/crystal.rosenbrook/viz/TableauChallenge_16919735036830/TableauChallenge).
+You can find my final Tableau Challenge results [here](https://public.tableau.com/app/profile/crystal.rosenbrook/viz/TableauChallenge_16919735036830/TableauChallenge).
 
 ## Before You Begin
 
